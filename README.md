@@ -1,7 +1,12 @@
-<h1>Decodificador de texto (Encriptar e Desencriptar)</h1>
+# Olá! Bem vindo ao meu novo projeto de portfólio
 
-<h2> Sobre</h2>
-<p>Challegenge: Desafio da Alura para estudantes iniciantes de programação.</p>
+
+
+
+## Decodificador de texto (Encriptar e Desencriptar).
+### <p>Challegenge: Desafio da Alura para estudantes iniciantes de programação.</p>
+
+<p>Este projeto faz parte do curso de programação para iniciantes da Alura. O objetivo é criar um decodificador de texto que permite encriptar e desencriptar mensagens, proporcionando uma introdução prática aos conceitos de programação.</P>
 
 ## Tecnologias
 <div>
