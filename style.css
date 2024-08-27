@@ -1,0 +1,136 @@
+*{
+ background: #E5E5E5;   
+ font-family: "Inter", sans-serif;
+ font-weight: 400;
+ font-size: 32px;
+ line-height: 150%;
+}
+.logoAlura{
+    margin-left: 10px;
+padding-top: 10px;
+width:2%;
+
+}
+
+main{
+    display:flex;
+    margin-bottom: 50px;
+    margin-left: 80px;
+}
+
+.text-area {
+    border:none;
+    color: #0a3871;
+    margin-top: 90px;
+    text-transform: lowercase;
+
+}
+
+::placeholder {color: #0A3871;}
+.text-area:focus {
+    outline: none;
+}
+
+.mensagem{
+    background-image: white;
+    background-image: url(/imagens/boneco.png);
+    background-repeat: no-repeat;
+    border:none;
+    border-radius: 24px;
+    color: #0a3871;
+margin-left: 98px;
+margin-top: 20px;
+padding-left: 20px;
+position:fixed;
+}
+
+.mensagem:focus{
+    outline: none;
+}
+
+.botoes{
+    display: flex;
+    margin-top: 18px;
+}
+
+
+
+.btn-desencriptar, .btn-encriptar, .btn-copiar {
+    border: 1px solid #0A3871;
+    border-radius: 24px;
+    cursor: pointer;
+    height: 67px;
+    width: 328px;
+    transition: background-color 0.3s ease;
+}
+
+
+
+.btn-desencriptar{
+    background: #D8DFE8;
+    border:1px solid #0A3871;
+    border-radius: 24px;
+    color: #0A3871;
+    cursor:pointer;
+    height: 67px;
+    margin-left: 30px;
+    width: 328px;
+}
+
+.btn-encriptar{
+    background-color: #0A3871;
+    border: 1px solid #0A3871;
+    border-radius: 24px;
+    color: white;
+    cursor: pointer;
+    height: 67px;
+    width: 328px;
+
+}
+
+.btn-copiar{
+    border: 1px solid #0A3871;
+    border-radius: 24px;
+    color: #0A3871;
+    cursor:pointer;
+    height: 67px;
+    margin-left: 108px;
+    margin-top: 402px;
+    position: absolute;
+    width: 336px;
+
+}
+
+.btn-desencriptar:hover, .btn-encriptar:hover, .btn-copiar:hover {
+    background-color: #4973ab;
+}
+
+
+
+
+.informação{
+    color: #505962;
+    font-size: 18px;
+}
+
+
+footer {
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+footer a {
+    color:   black ;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #184d8e;
+}
