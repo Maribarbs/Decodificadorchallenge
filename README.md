@@ -2,8 +2,6 @@
 
  ![Capa](https://github.com/user-attachments/assets/4e75347e-d551-4ab7-a049-452338bae9eb)
 
-
-
 ## Decodificador de texto.
 ### <p>Challegenge: Desafio da Alura para estudantes iniciantes de programação.</p>
 
